@@ -1,0 +1,9 @@
+
+.nav{
+display: flex;
+margin: 20 px;
+background: rgb(221, 111, 98) ;
+}
+.navbar-logo{
+    display: flex-wrap;
+}
